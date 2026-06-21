@@ -8,4 +8,4 @@ Submitted by 108799
 
 - **dist/Pandas.html** - Exported HTML version of the notebook.
 
-- **Pandas.webp** - Imaage used within the notebook and article.
+- **Pandas.webp** - Image used within the notebook and article.
